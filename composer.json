@@ -2,7 +2,7 @@
     "name": "sangdou/unionpay",
     "description": "《桑豆技术团队》银联sdk",
     "type": "composer-plugin",
-    "license": "sangdou technical team",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Sangdou\\Unionpay\\": "src/"
