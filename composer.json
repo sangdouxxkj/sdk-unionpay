@@ -1,7 +1,7 @@
 {
     "name": "sangdou/unionpay",
-    "description": "《桑豆技术团队》银联sdk",
-    "type": "composer-plugin",
+    "description": "《桑豆技术团队》银联sdk for PHP",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
