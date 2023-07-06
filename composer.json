@@ -17,5 +17,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.0"
+    },
+    "extra": {
+        "class": "Sangdou\\Unionpay\\miniprogram\\src\\Service"
     }
 }
