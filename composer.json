@@ -19,6 +19,6 @@
         "php": ">=7.1.0"
     },
     "extra": {
-        "class": "Sangdou\\Unionpay\\miniprogram\\src\\Service"
+        "class": "Sangdou\\Unionpay\\miniprogram\\src\\UnionMiniService"
     }
 }
