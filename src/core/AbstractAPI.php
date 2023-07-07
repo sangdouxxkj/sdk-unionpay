@@ -1,6 +1,6 @@
 <?php
 
-namespace Sangdou\Core\core\src;
+namespace Sangdou\Core\core;
 
 abstract class AbstractAPI
 {

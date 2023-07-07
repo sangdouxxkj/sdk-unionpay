@@ -1,6 +1,6 @@
 <?php
 
-namespace Sangdou\Unionpay\miniprogram\src;
+namespace Sangdou\Unionpay\miniprogram;
 
 class UnionMiniService
 {
@@ -11,7 +11,7 @@ class UnionMiniService
         $vars = get_defined_vars();
     }
 
-    public function boot()
+    public static function boot()
     {
         echo '当前时间' . time();
     }
