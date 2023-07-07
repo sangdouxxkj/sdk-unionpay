@@ -4,7 +4,7 @@ namespace Sangdou\Unionpay\miniprogram\src;
 
 class UnionMiniService
 {
-
+    const API_ACCESS_TOKEN = '/v1/token/access';
 
     public function __construct(...$arguments)
     {

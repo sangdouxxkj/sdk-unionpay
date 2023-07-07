@@ -3,6 +3,18 @@
     "description": "《桑豆技术团队》银联sdk for PHP",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "union",
+        "unionpay",
+        "merchant",
+        "sangdou",
+        "pay",
+        "payment",
+        "purchase",
+        "银联",
+        "sdk"
+    ],
+    "homepage": "https://github.com/sangdouxxkj/sdk-unionpay",
     "autoload": {
         "psr-4": {
             "Sangdou\\Unionpay\\": "src/"
