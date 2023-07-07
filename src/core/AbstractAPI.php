@@ -1,6 +1,6 @@
 <?php
 
-namespace Sangdou\Core\core;
+namespace Sangdou\Unionpay\core;
 
 abstract class AbstractAPI
 {
