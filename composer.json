@@ -28,7 +28,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.1.0"
+        "php": ">=7.1.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-libxml": "*",
+        "ext-simplexml": "*"
     },
     "extra": {
         "class": "Sangdou\\Unionpay\\miniprogram\\src\\UnionMiniService"
